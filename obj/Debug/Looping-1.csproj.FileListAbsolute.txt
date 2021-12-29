@@ -1,0 +1,7 @@
+D:\Projects\Visual Studio 2019\Looping-1\Looping-1\bin\Debug\Looping-1.exe.config
+D:\Projects\Visual Studio 2019\Looping-1\Looping-1\bin\Debug\Looping-1.exe
+D:\Projects\Visual Studio 2019\Looping-1\Looping-1\bin\Debug\Looping-1.pdb
+D:\Projects\Visual Studio 2019\Looping-1\Looping-1\obj\Debug\Looping-1.csprojAssemblyReference.cache
+D:\Projects\Visual Studio 2019\Looping-1\Looping-1\obj\Debug\Looping-1.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio 2019\Looping-1\Looping-1\obj\Debug\Looping-1.exe
+D:\Projects\Visual Studio 2019\Looping-1\Looping-1\obj\Debug\Looping-1.pdb
